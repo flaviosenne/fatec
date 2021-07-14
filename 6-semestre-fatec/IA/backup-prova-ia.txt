@@ -1,0 +1,48 @@
+1)Joao Flavio Lima Flausino Senne
+1090481721022
+
+2)
+o uso da inteligência artificial no meio empresarial é vantajoso sim, pelo motivo da automação e padronização das tarefas, além disso depois de consolidado e bem treinado a tecnologia, a mesma substituirá muitos outros funcionários, ou seja, a máquina não vai ficar doente, atrasar etc. na perspectiva do cliente, em alguns casos são bem relevantes, em outros (como atendimento) não são são interessantes.
+
+3)
+Sistema Baseado em Conhecimento são, IA que possuem o objetivo de solucionar um problema de maneira igual um especialista, ou seja é escolhido um dominio (determinada area) por exemplo pediatria (uma das áreas da medicina) e conforme a complexidade das questões aumentam, a base de dados do sistema vai amadurecendo cada vez mais
+
+4)
+a) entender a fundo o dominio, isso leva em consideração pesquisar de forma inteligente e entrevistar varios especialistas com com ponto de vista oposto.
+
+b)primeiro é feito uma pesquisa relacionada ao tema e uma boa compreenção do assunto, em seguida a representação pode ser por meio da escrita ou por diagramas, referencia na onde foi obtido essa aquisição de conhecimento e por fim tratar essess dados de forma que venha fazer sentido ao usuário final 
+
+5)
+a busca cega é utilizada quando não se tem noção na onde quer chegar, o método usado é por tentativa e erro, já na heuristica se tem conhecimento do caminho, então estima-se um valor para cada caminho agilizando assim o processo de busca.
+
+profundidade:
+
+1L  [A]
+2L [B a, C a]
+3L [D b a, F b a, C a]
+4L [E d b a, D b a, F b a, C a]
+5L [D b a, F b a, C a]
+6L [G f b a, F b a, C a]
+7L [F b a, C a]
+8L [C a]
+9L [H c a, I c a]
+10L [I c a]
+
+
+ A*
+
+1L [A]
+2L [B 4 a, C 5 a]
+3L [D 6 b a, F 9 b a, C 5 a]
+4L [D 6 b a, F 9 b a, H 8 c a,  I 7 c a, C 5 a] 
+5L [E 8 d b a, D 6 b a, F 9 b a, H 8 c a, I 7 c a,  C 5 a]
+6L [D 6 b a, F 9 b a, H 8 c a,  I 7 c a,  C 5 a]
+7L [F 9 b a, H 8 c a,  I 7 c a,  C 5 a]
+8L [F 9 b a, H 8 c a,  C 5 a]
+
+passos: 8
+memória: 6
+caminho: I C A
+
+
+Representação de conhecimento é uma forma ou ferramenta utilizada para descrever qual o fluxo de pensamento e até mesmo quais as regras que devem ser seguidas.

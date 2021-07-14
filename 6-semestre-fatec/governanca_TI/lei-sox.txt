@@ -1,0 +1,12 @@
+Alei sarbanes-oxley ou sox foi criada pelo deputado Michel Oxley e senador Paul Surbanes no dia 30 de julho de 2002, com o intuito de previnir fraudes financeiras
+e aumentar a credibilidade do mercado de capitatis americano. Isso se deu pelo motivo dos grandes escandalos de empresas no século 20.
+Até a criação, naõ exixtia regulamento que obrigava a empresa divulgar seus processos financeiros. A bulsula para a corporação era um manual de melhores
+práticas adotado pela grande maioria das empresas, no entanto para fins individuais, gestores não adotavam essas práticas de maneira conduzente e tranparente.
+Um exemplo a ser citado foi a grande falencia da ENRON, ela usa uma técnica de maquiagem contábel o qual inflava suas receitas e omitia despesas. Trago a toda a
+real situação da empresa, imediatamente houve um declinio nas ações da empresa e o mais inusitável foi a desconfiança dos investidores em comprar novas ações,
+tendo isso o pais entra em um estado crítico do valor do capital. Com a lei sox a empresa possui o dever de anotar todo fluxo moneitario para pessoas anonimas e outras
+empresas para que haja transparencia e confiabilidade por parte da empresa para o investidor. A lei SOx não é um conjunto de práticas de como guardar os registros mas sim
+o que deve ser guardado e por quanto tempo. A TI chega com um paoél importante que é o armazenamento dos dados. Um medidor de desempenho (no ambito do cumprimento da lei)
+é o PCAOB (Public Company Accounting Oversight Board), monitora o controle de qualidade e normas de auditoria. Enfim com essa lei, as empresas são obrigadas a seguirem
+as normas as quais tem por finalidade transparecer o máximo a vida financeira. Caso não codiz com a lei a empresa se responsabiliza e deve pagar uma multa altissima ou até mesmo
+sofrer uma prisão de 10 a 20 anos.
